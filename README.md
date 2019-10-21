@@ -9,4 +9,4 @@ To run:
 Example: 
 
 
-![alt text](Pos_Neg_example.png)
+![alt text](example.png)
